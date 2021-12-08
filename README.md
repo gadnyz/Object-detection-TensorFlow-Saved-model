@@ -1,6 +1,6 @@
 # Utilisation d'un modèle personnalisé de detection des objets  avec Tensorflow
 
-Ce projet contient l'utilisation d'un modèle personnalisé de détection des objets avec le framework Tensorflow. Et le présent modèle permet de détecter les visages de deux hommes politiques congolais : (1) Felix Tshisekedi et (2) Joseph Kabila.
+Ce projet contient l'utilisation d'un modèle personnalisé de détection des objets avec le Framework Tensorflow. Et le présent modèle permet de détecter les visages de deux hommes politiques congolais : (1) Felix Tshisekedi et (2) Joseph Kabila.
 
 
 ## Avant execution
