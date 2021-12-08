@@ -4,7 +4,7 @@ Ce projet contient l'utilisation d'un modèle personnalisé de détection des ob
 
 ## Contenu du dépôt
 Ce depot contient deux fichiers notebook :
-* [Le premier fichier ](Entrainement_du_model_et_detection_.ipynb) contient le code qui nous a permis de creer le modèle personnalisé de detection des objects.  Ce fichier a été crée et executé sur Google Colab lié à Google drive.
+* [Le premier fichier ](Entrainement_du_model_et_detection_.ipynb) contient le code qui nous a permis de créer le modèle personnalisé de detection des objects.  Ce fichier a été crée et executé sur Google Colab lié à Google drive.
 * [Et le second ](test.ipynb), le code qui utilise le modèle. Ce fichier a été crée sur la machine locale et testé avec jupyter notebook.
 
 ## Avant execution
