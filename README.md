@@ -11,7 +11,7 @@ Ce depot contient deux fichiers notebook :
 Rassurez-vous de disposer de :
 * L'API de detection d'object de tensorflow <a href="https://www.tensorflow.org/hub/tutorials/object_detection">(TFOD) 
 * [Tensorflow](https://www.tensorflow.org/install?hl=fr) 
-* [Anacoda](https://www.anaconda.com/products/individual) ou autre conteneur.
+* [Anacoda](https://www.anaconda.com/products/individual) ou un autre conteneur.
 
 
 ## Resultats de notre modèle
