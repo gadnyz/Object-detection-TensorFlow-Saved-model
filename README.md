@@ -23,6 +23,6 @@ Rassurez-vous de disposer de :
 ## Pour en savoir plus
 Consulter :
 
-* [La documentation officiel Tensorflow sur la detection des objects](https://tensorflow-object-detection-api-tutorial.readthedocs.io/")
+* [La documentation officielle Tensorflow sur la detection des objects](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html/")
 * [Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects](https://youtu.be/yqkISICHH-U)
 * [Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning](https://youtu.be/dZh_ps8gKgs)
